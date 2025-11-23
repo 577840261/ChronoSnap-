@@ -1,0 +1,7 @@
+{
+  "name": "ChronoSnap",
+  "description": "ChronoSnap 是一款多功能 AI 相机应用。包含时空穿越、魔法编辑和智能识图功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
